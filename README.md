@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">Hi 👋, I'm Shyam Senthilkumar</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h3 align="center">A passionate AIML Engineer</h3>
 <a href="https://"><h3>Portfolio</h3></a>
 <p>https://</p>
 - 🌱 I’m currently learning **System Design**
