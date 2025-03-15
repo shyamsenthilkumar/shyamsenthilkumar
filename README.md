@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **kumarshyam8681@gmail.com**
 
-- 📄 Know about my Resume [Resume Link](https://drive.google.com/file/d/106LFonaHD3YZn_Abe05b8npNmQmrRSuI/view?usp=sharing)
+- 📄 Know about my Resume [Resume Link](https://drive.google.com/file/d/1kTURa9KmvqXZ7fm8mXJ7vk3yjVFBGmn4/view?usp=sharing)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shyamsenthilkumar&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="shyamsenthilkumar" style="padding-right:20px;" />
