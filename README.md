@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shyamsenthilkumar&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="shyamsenthilkumar" style="padding-right:20px;" />
 </p>
+<div style="text-align: center;">
+  <img src="https://leetcard.jacoblin.cool/Shyam_Senthilkumar?theme=dark&font=Kosugi%20Maru" alt="LeetCode Stats">
+</div>
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
