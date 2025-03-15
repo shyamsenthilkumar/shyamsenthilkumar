@@ -38,6 +38,12 @@ Here are some ideas to get you started:
   <img src="https://leetcard.jacoblin.cool/Shyam_Senthilkumar?theme=dark&font=Kosugi%20Maru" alt="LeetCode Stats">
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,java,js,linkedin,netlify,postman,react,vite,mongodb,vscode" />
+  </a>
+</p>
+
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
