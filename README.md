@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </p>
 <br />
 
-<!--Github stats Table--> 
+<!-- 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -99,3 +99,4 @@ Here are some ideas to get you started:
 </tr>
 </table>
 <br />
+-->
