@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </p>
 <br />
 
-<!--
+
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
